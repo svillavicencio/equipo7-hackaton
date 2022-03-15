@@ -7,4 +7,4 @@ const logger = winston.createLogger({
     ]
 })
 
-module.exports = loggerss
+module.exports = logger
